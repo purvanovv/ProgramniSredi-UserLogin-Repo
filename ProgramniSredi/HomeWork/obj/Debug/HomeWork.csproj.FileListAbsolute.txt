@@ -1,0 +1,7 @@
+C:\Users\Viktor\source\repos\ProgramniSredi\HomeWork\bin\Debug\HomeWork.exe.config
+C:\Users\Viktor\source\repos\ProgramniSredi\HomeWork\bin\Debug\HomeWork.exe
+C:\Users\Viktor\source\repos\ProgramniSredi\HomeWork\bin\Debug\HomeWork.pdb
+C:\Users\Viktor\source\repos\ProgramniSredi\HomeWork\obj\Debug\HomeWork.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\source\repos\ProgramniSredi\HomeWork\obj\Debug\HomeWork.exe
+C:\Users\Viktor\source\repos\ProgramniSredi\HomeWork\obj\Debug\HomeWork.pdb
+C:\Users\Viktor\source\repos\ProgramniSredi\HomeWork\obj\Debug\HomeWork.csprojAssemblyReference.cache
