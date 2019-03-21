@@ -12,6 +12,8 @@ namespace UserLogin
         public String Password { get; set; }
         public String FakNumber { get; set; }
         public UserRoles Role { get; set; }
+        public DateTime Created { get; set; }
+        public DateTime ActiveUntil { get; set; }
 
     }
 }

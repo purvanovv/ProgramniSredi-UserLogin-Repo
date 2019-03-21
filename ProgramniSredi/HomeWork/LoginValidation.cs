@@ -63,6 +63,7 @@ namespace UserLogin
             if(user != null)
             {
                 currentUserRole = user.Role;
+                Logger.LogActivity("Succesfull login.");
                 return true;
             }
             else
